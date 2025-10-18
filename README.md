@@ -24,6 +24,6 @@ Saya terbiasa membuat aplikasi otomatisasi, sistem akademik, dan launcher kiosk 
 | Launcher Android Mode Kiosk | Aplikasi Android dengan PIN keluar & custom icon |
 
 ## 📫 Kontak
-- ✉️ Email: [emailkamu@example.com]
-- 🌐 Website: [link jika ada]
-- 💻 GitHub: [https://github.com/username]
+- ✉️ Email: [starkid7601@gmail.com]
+- 🌐 Website: -
+- 💻 GitHub: [https://github.com/starkid7601-droid]
